@@ -1,0 +1,5 @@
+
+{
+  "name": "Scanned PDF Text Extractor (Hindi+English)",
+  "description": "An OCR-driven tool to extract and structure text from scanned PDF documents containing both Hindi and English questions. It cleans artifacts and preserves the original question format."
+}
